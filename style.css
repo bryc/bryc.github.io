@@ -1,0 +1,8 @@
+body {
+    font-family: system-ui, Segoe UI, Roboto, Ubuntu, Trebuchet MS, sans-serif;
+    background: #F9F9F9;
+    color: #363636;
+}
+a:link{color:#04A;}
+a:visited{color:#04A;}
+a:active{color:#B00;}
